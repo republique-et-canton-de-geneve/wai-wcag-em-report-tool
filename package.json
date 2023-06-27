@@ -12,7 +12,8 @@
         "dev": "export BASEPATH='' && npm run clean:dev & rollup -c -w",
         "clean": "rimraf ./build ./node_modules",
         "clean:build": "rimraf ./build",
-        "clean:dev": "rimraf ./build"
+        "clean:dev": "rimraf ./build",
+        "prod": "npm run clean:build & ./node_modules/.bin/rollup  -c -w"
     },
     "main": "src/main.js",
     "dependencies": {

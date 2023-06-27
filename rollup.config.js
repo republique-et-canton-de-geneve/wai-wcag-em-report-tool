@@ -13,7 +13,8 @@ import { terser } from 'rollup-plugin-terser';
 import pkg from './package.json';
 import locales from './src/locales/index.json';
 
-const production = !process.env.ROLLUP_WATCH;
+// Production force mode
+const production = true;
 
 const BASEPATH = process.env.BASEPATH || '';
 
@@ -141,15 +142,14 @@ export default {
       __BASEPATH__: BASEPATH
     }),
 
+    serve({
+      contentBase: 'build',
+      historyApiFallback: true,
+      port: 4000
+    }),
 
-    !production &&
-      serve({
-        contentBase: 'build',
-        historyApiFallback: true
-      }),
-
-    !production && livereload('build'),
-    production && terser()
+    livereload('build'),
+    terser()
   ],
   watch: {
     exclude: [
