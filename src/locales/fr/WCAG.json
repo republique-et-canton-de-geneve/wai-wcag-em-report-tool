@@ -21,7 +21,7 @@
     "GUIDELINE": {
         "1.1": {
             "TITLE": "Équivalents textuels",
-            "DESCRIPTION": "Proposer des équivalents textuels à tout contenu non textuel qui pourra alors être présenté sous d’autres formes selon les besoins de l’utilisateur : grands caractères, braille, synthèse vocale, symboles ou langage simplifié."
+            "DESCRIPTION": "Proposer des équivalents textuels à tout contenu non textuel qui pourra alors être présenté sous d’autres formes selon les besoins de l’utilisateur : grands caractères, braille, synthèse vocale, symboles ou langage simplifié."
         },
         "1.2": {
             "TITLE": "Média temporel",
@@ -105,7 +105,7 @@
         },
         "1.2.1": {
             "TITLE": "Contenus seulement audio et seulement vidéo (pré-enregistrés)",
-            "DESCRIPTION": "Pour des médias pré-enregistrés seulement audio et pré-enregistrés seulement vidéo, sauf si l’audio ou la vidéo sont un média de remplacement pour un texte et qu’ils sont clairement identifiés comme tels, les points suivants sont vrais :",
+            "DESCRIPTION": "Pour des médias pré-enregistrés seulement audio et pré-enregistrés seulement vidéo, sauf si l’audio ou la vidéo sont un média de remplacement pour un texte et qu’ils sont clairement identifiés comme tels, les points suivants sont vrais :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Fournir une version de remplacement pour un média temporel, présentant une information équivalente au contenu seulement audio.",
@@ -179,10 +179,10 @@
         },
         "1.3.5": {
             "TITLE": "Identifier la finalité de la saisie",
-            "DESCRIPTION": "La finalité de chaque champ de saisie recueillant des informations sur l’utilisateur peut être déterminée par un programme informatique lorsque :",
+            "DESCRIPTION": "La finalité de chaque champ de saisie recueillant des informations sur l’utilisateur peut être déterminée par un programme informatique lorsque :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Le champ de saisie répond à une finalité identifiée dans la section Finalités de saisie des composants d’interface utilisateur ; et"
+                    "DESCRIPTION": "Le champ de saisie répond à une finalité identifiée dans la section Finalités de saisie des composants d’interface utilisateur ; et"
                 },
                 "2": {
                     "DESCRIPTION": "Le contenu est mis en œuvre via des technologies permettant d’identifier la finalité de la saisie attendue pour le champ."
@@ -206,10 +206,10 @@
         },
         "1.4.3": {
             "TITLE": "Contraste (minimum)",
-            "DESCRIPTION": "La présentation visuelle du texte et du texte sous forme d’image a un rapport de contraste d’au moins 4,5:1, sauf dans les cas suivants :",
+            "DESCRIPTION": "La présentation visuelle du texte et du texte sous forme d’image a un rapport de contraste d’au moins 4,5:1, sauf dans les cas suivants :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Le texte agrandi et le texte agrandi sous forme d’image ont un rapport de contraste d’au moins 3:1 ;",
+                    "DESCRIPTION": "Le texte agrandi et le texte agrandi sous forme d’image ont un rapport de contraste d’au moins 3:1 ;",
                     "TITLE": "Texte agrandi"
                 },
                 "2": {
@@ -229,10 +229,10 @@
         },
         "1.4.5": {
             "TITLE": "Texte sous forme d’image",
-            "DESCRIPTION": "Si les technologies utilisées peuvent réaliser la présentation visuelle, du texte est utilisé pour véhiculer l’information plutôt que du texte sous forme d’image sauf dans les cas suivants :",
+            "DESCRIPTION": "Si les technologies utilisées peuvent réaliser la présentation visuelle, du texte est utilisé pour véhiculer l’information plutôt que du texte sous forme d’image sauf dans les cas suivants :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Le texte sous forme d’image peut être personnalisé visuellement selon les exigences de l’utilisateur ;",
+                    "DESCRIPTION": "Le texte sous forme d’image peut être personnalisé visuellement selon les exigences de l’utilisateur ;",
                     "TITLE": "Personnalisable"
                 },
                 "2": {
@@ -243,10 +243,10 @@
         },
         "1.4.6": {
             "TITLE": "Contraste (amélioré)",
-            "DESCRIPTION": "La présentation visuelle du texte et du texte sous forme d’image a un rapport de contraste d’au moins 7:1, sauf dans les cas suivants :",
+            "DESCRIPTION": "La présentation visuelle du texte et du texte sous forme d’image a un rapport de contraste d’au moins 7:1, sauf dans les cas suivants :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "le texte agrandi et le texte agrandi sous forme d’image ont un rapport de contraste d’au moins 4,5:1 ;",
+                    "DESCRIPTION": "le texte agrandi et le texte agrandi sous forme d’image ont un rapport de contraste d’au moins 4,5:1 ;",
                     "TITLE": "Texte agrandi"
                 },
                 "2": {
@@ -261,7 +261,7 @@
         },
         "1.4.7": {
             "TITLE": "Arrière-plan sonore de faible volume ou absent",
-            "DESCRIPTION": "Pour un contenu seulement audio pré-enregistré qui (1) contient principalement de la parole au premier plan, (2) n’est pas un CAPTCHA ou un logo sonore et (3) qui n’est pas une vocalisation dont l’intention est principalement d’être musicale comme une chanson ou un rap, au moins l’une des conditions suivantes est vraie :",
+            "DESCRIPTION": "Pour un contenu seulement audio pré-enregistré qui (1) contient principalement de la parole au premier plan, (2) n’est pas un CAPTCHA ou un logo sonore et (3) qui n’est pas une vocalisation dont l’intention est principalement d’être musicale comme une chanson ou un rap, au moins l’une des conditions suivantes est vraie :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Le contenu audio ne contient pas d’arrière-plan sonore.",
@@ -279,7 +279,7 @@
         },
         "1.4.8": {
             "TITLE": "Présentation visuelle",
-            "DESCRIPTION": "Pour la présentation visuelle des blocs de texte, un mécanisme est disponible permettant de réaliser ce qui suit :",
+            "DESCRIPTION": "Pour la présentation visuelle des blocs de texte, un mécanisme est disponible permettant de réaliser ce qui suit :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Les couleurs de premier plan et d’arrière-plan peuvent être choisies par l’utilisateur."
@@ -305,10 +305,10 @@
         },
         "1.4.10": {
             "TITLE": "Redistribution",
-            "DESCRIPTION": "Le contenu peut être présenté sans perte d’information ou de fonctionnalité et sans nécessité de défilement dans les deux dimensions pour :",
+            "DESCRIPTION": "Le contenu peut être présenté sans perte d’information ou de fonctionnalité et sans nécessité de défilement dans les deux dimensions pour :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Un contenu à défilement vertical avec une largeur équivalente à 320 pixels CSS ;"
+                    "DESCRIPTION": "Un contenu à défilement vertical avec une largeur équivalente à 320 pixels CSS ;"
                 },
                 "2": {
                     "DESCRIPTION": "Un contenu à défilement horizontal avec une hauteur équivalente à 256 pixels CSS."
@@ -317,7 +317,7 @@
         },
         "1.4.11": {
             "TITLE": "Contraste du contenu non textuel",
-            "DESCRIPTION": "La présentation visuelle des éléments suivants a un rapport de contraste d’au moins 3:1 avec la ou les couleurs adjacentes :",
+            "DESCRIPTION": "La présentation visuelle des éléments suivants a un rapport de contraste d’au moins 3:1 avec la ou les couleurs adjacentes :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Informations visuelles nécessaires à l’identification des composants et des états de l’interface utilisateur, à l’exception des composants inactifs ou lorsque l’apparence du composant est déterminée par l’agent utilisateur et non modifiée par l’auteur.",
@@ -331,7 +331,7 @@
         },
         "1.4.12": {
             "TITLE": "Espacement du texte",
-            "DESCRIPTION": "Dans un contenu mis en œuvre via un langage de balisage qui prend en charge les propriétés de style de texte suivantes, il n’y a aucune perte de contenu ou de fonctionnalité lorsqu’on applique toutes les valeurs ci-dessous sans modifier aucune autre propriété de style :",
+            "DESCRIPTION": "Dans un contenu mis en œuvre via un langage de balisage qui prend en charge les propriétés de style de texte suivantes, il n’y a aucune perte de contenu ou de fonctionnalité lorsqu’on applique toutes les valeurs ci-dessous sans modifier aucune autre propriété de style :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "La hauteur de ligne (interlignage) définie a au moins 1,5 fois la taille de la police;"
@@ -349,7 +349,7 @@
         },
         "1.4.13": {
             "TITLE": "Contenu au survol ou au focus ",
-            "DESCRIPTION": "Lorsque la réception puis le retrait du survol du pointeur ou du focus du clavier déclenche l’affichage puis le masquage d’un contenu additionnel, les éléments suivants sont vrais :",
+            "DESCRIPTION": "Lorsque la réception puis le retrait du survol du pointeur ou du focus du clavier déclenche l’affichage puis le masquage d’un contenu additionnel, les éléments suivants sont vrais :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Il existe un mécanisme permettant de masquer le contenu additionnel sans déplacer le pointeur ou le focus du clavier, à moins que le contenu additionnel ne communique une erreur de saisie ou ne masque ou ne remplace un autre contenu.",
@@ -382,14 +382,14 @@
         },
         "2.1.4": {
             "TITLE": "Raccourcis clavier utilisant des caractères",
-            "DESCRIPTION": "Si un raccourci clavier est mis en œuvre dans du contenu en utilisant uniquement des caractères de type lettres (y compris les majuscules et les minuscules), des signes de ponctuation, des chiffres ou des symboles, alors au moins l’une des conditions suivantes est vraie :",
+            "DESCRIPTION": "Si un raccourci clavier est mis en œuvre dans du contenu en utilisant uniquement des caractères de type lettres (y compris les majuscules et les minuscules), des signes de ponctuation, des chiffres ou des symboles, alors au moins l’une des conditions suivantes est vraie :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Un mécanisme est disponible pour désactiver le raccourci ;",
+                    "DESCRIPTION": "Un mécanisme est disponible pour désactiver le raccourci ;",
                     "TITLE": "Désactiver"
                 },
                 "2": {
-                    "DESCRIPTION": "Un mécanisme est disponible pour réassigner le raccourci afin d’utiliser un ou plusieurs caractères non imprimables du clavier (par exemple, Ctrl, Alt, etc.) ;",
+                    "DESCRIPTION": "Un mécanisme est disponible pour réassigner le raccourci afin d’utiliser un ou plusieurs caractères non imprimables du clavier (par exemple, Ctrl, Alt, etc.) ;",
                     "TITLE": "Réassigner"
                 },
                 "3": {
@@ -400,26 +400,26 @@
         },
         "2.2.1": {
             "TITLE": "Réglage du délai",
-            "DESCRIPTION": "Pour chaque limite de temps fixée par le contenu, au moins l’un des points suivants est vrai :",
+            "DESCRIPTION": "Pour chaque limite de temps fixée par le contenu, au moins l’un des points suivants est vrai :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "L’utilisateur a la possibilité de supprimer la limite de temps avant de la rencontrer ; ou ",
+                    "DESCRIPTION": "L’utilisateur a la possibilité de supprimer la limite de temps avant de la rencontrer ; ou ",
                     "TITLE": "Suppression"
                 },
                 "2": {
-                    "DESCRIPTION": "L’utilisateur a la possibilité d’ajuster la limite de temps avant de la rencontrer dans un intervalle d’au moins dix fois la durée paramétrée par défaut ; ou ",
+                    "DESCRIPTION": "L’utilisateur a la possibilité d’ajuster la limite de temps avant de la rencontrer dans un intervalle d’au moins dix fois la durée paramétrée par défaut ; ou ",
                     "TITLE": "Ajustement"
                 },
                 "3": {
-                    "DESCRIPTION": "L’utilisateur est averti avant que la limite de temps n’expire et il lui est accordé au moins 20 secondes pour étendre cette limite par une action simple (par exemple, « appuyer sur la barre d’espace ») et l’utilisateur a la possibilité d’étendre la limite de temps au moins dix fois ; ou ",
+                    "DESCRIPTION": "L’utilisateur est averti avant que la limite de temps n’expire et il lui est accordé au moins 20 secondes pour étendre cette limite par une action simple (par exemple, « appuyer sur la barre d’espace ») et l’utilisateur a la possibilité d’étendre la limite de temps au moins dix fois ; ou ",
                     "TITLE": "Extension"
                 },
                 "4": {
-                    "DESCRIPTION": "La limite de temps est une partie constitutive d’un événement en temps réel (par exemple, une enchère) et aucune alternative n’est possible ; ou ",
+                    "DESCRIPTION": "La limite de temps est une partie constitutive d’un événement en temps réel (par exemple, une enchère) et aucune alternative n’est possible ; ou ",
                     "TITLE": "L’exception du temps réel"
                 },
                 "5": {
-                    "DESCRIPTION": "La limite de temps est essentielle et l’étendre invaliderait alors l’activité ; ou",
+                    "DESCRIPTION": "La limite de temps est essentielle et l’étendre invaliderait alors l’activité ; ou",
                     "TITLE": "L’exception de la limite essentielle"
                 },
                 "6": {
@@ -430,10 +430,10 @@
         },
         "2.2.2": {
             "TITLE": "Mettre en pause, arrêter, masquer",
-            "DESCRIPTION": "Pour toute information en mouvement, clignotante, défilante ou mise à jour automatiquement, tous les points suivants sont vrais :",
+            "DESCRIPTION": "Pour toute information en mouvement, clignotante, défilante ou mise à jour automatiquement, tous les points suivants sont vrais :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Pour toute information en mouvement, clignotante ou défilante qui (1) démarre automatiquement, (2) dure plus de cinq secondes et (3) est présentée conjointement avec un autre contenu, il y a un mécanisme à la disposition de l’utilisateur pour la mettre en pause, l’arrêter ou la masquer, à moins que le mouvement, le clignotement ou le défilement s’avère un élément essentiel au bon déroulement de l’activité ; et ",
+                    "DESCRIPTION": "Pour toute information en mouvement, clignotante ou défilante qui (1) démarre automatiquement, (2) dure plus de cinq secondes et (3) est présentée conjointement avec un autre contenu, il y a un mécanisme à la disposition de l’utilisateur pour la mettre en pause, l’arrêter ou la masquer, à moins que le mouvement, le clignotement ou le défilement s’avère un élément essentiel au bon déroulement de l’activité ; et ",
                     "TITLE": "Déplacement, clignotement, défilement"
                 },
                 "2": {
@@ -534,18 +534,18 @@
         },
         "2.5.2": {
             "TITLE": "Annulation de l’action du pointeur",
-            "DESCRIPTION": "Pour une fonctionnalité qui peut être activée avec un dispositif de pointage à contact unique, au moins une des conditions suivantes est vraie :",
+            "DESCRIPTION": "Pour une fonctionnalité qui peut être activée avec un dispositif de pointage à contact unique, au moins une des conditions suivantes est vraie :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "L’événement descendant (down-event) du pointeur n’est pas utilisé pour exécuter une partie ou la totalité de la fonction ;",
+                    "DESCRIPTION": "L’événement descendant (down-event) du pointeur n’est pas utilisé pour exécuter une partie ou la totalité de la fonction ;",
                     "TITLE": "Aucun événement descendant"
                 },
                 "2": {
-                    "DESCRIPTION": "L’achèvement de la fonction se fait sur l’événement ascendant (up-event) et un mécanisme est disponible pour interrompre la fonction avant l’achèvement ou pour annuler la fonction après l’achèvement ;",
+                    "DESCRIPTION": "L’achèvement de la fonction se fait sur l’événement ascendant (up-event) et un mécanisme est disponible pour interrompre la fonction avant l’achèvement ou pour annuler la fonction après l’achèvement ;",
                     "TITLE": "Abandon ou annulation"
                 },
                 "3": {
-                    "DESCRIPTION": "L’événement ascendant inverse tout résultat de l’événement descendant précédent ;",
+                    "DESCRIPTION": "L’événement ascendant inverse tout résultat de l’événement descendant précédent ;",
                     "TITLE": "Inversion sur l’événement ascendant"
                 },
                 "4": {
@@ -561,10 +561,10 @@
         },
         "2.5.4": {
             "TITLE": "Activation par le mouvement",
-            "DESCRIPTION": "Les fonctionnalités qui peuvent être activées par un mouvement de l’appareil ou un mouvement de l’utilisateur peuvent également être activées par des composants d’interface utilisateur et la réponse au mouvement peut être désactivée pour éviter une activation accidentelle, sauf dans les cas suivants :",
+            "DESCRIPTION": "Les fonctionnalités qui peuvent être activées par un mouvement de l’appareil ou un mouvement de l’utilisateur peuvent également être activées par des composants d’interface utilisateur et la réponse au mouvement peut être désactivée pour éviter une activation accidentelle, sauf dans les cas suivants :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "Le mouvement est utilisé pour activer la fonctionnalité par l’intermédiaire d’une interface compatible avec l’accessibilité ;"
+                    "DESCRIPTION": "Le mouvement est utilisé pour activer la fonctionnalité par l’intermédiaire d’une interface compatible avec l’accessibilité ;"
                 },
                 "2": {
                     "DESCRIPTION": "Le mouvement est essentiel à la fonction et le désactiver invaliderait l’activité.",
@@ -574,18 +574,18 @@
         },
         "2.5.5": {
             "TITLE": "Taille de la cible",
-            "DESCRIPTION": "La taille de la cible pour les pointeurs d’entrée est d’au moins 44 par 44 pixels CSS, sauf quand :",
+            "DESCRIPTION": "La taille de la cible pour les pointeurs d’entrée est d’au moins 44 par 44 pixels CSS, sauf quand :",
             "DETAILS": {
                 "1": {
-                    "DESCRIPTION": "La cible est disponible depuis un lien ou un contrôle équivalent sur la même page qui mesure au moins 44 par 44 pixels CSS ;",
+                    "DESCRIPTION": "La cible est disponible depuis un lien ou un contrôle équivalent sur la même page qui mesure au moins 44 par 44 pixels CSS ;",
                     "TITLE": "Équivalente"
                 },
                 "2": {
-                    "DESCRIPTION": "La cible se trouve dans une phrase ou un bloc de texte ;",
+                    "DESCRIPTION": "La cible se trouve dans une phrase ou un bloc de texte ;",
                     "TITLE": "En ligne"
                 },
                 "3": {
-                    "DESCRIPTION": "La taille de la cible est déterminée par l’agent utilisateur et n’est pas modifiée par l’auteur ;",
+                    "DESCRIPTION": "La taille de la cible est déterminée par l’agent utilisateur et n’est pas modifiée par l’auteur ;",
                     "TITLE": "Contrôlée par l’agent utilisateur"
                 },
                 "4": {
@@ -671,7 +671,7 @@
         },
         "3.3.4": {
             "TITLE": "Prévention des erreurs (juridiques, financières, de données)",
-            "DESCRIPTION": "Pour les pages Web qui entraînent des engagements juridiques ou des transactions financières de la part de l’utilisateur, qui modifient ou effacent des données contrôlables par l’utilisateur dans des systèmes de stockages de données, qui enregistrent les réponses de l’utilisateur à un test ou un examen, au moins l’une des conditions suivantes est vraie :",
+            "DESCRIPTION": "Pour les pages Web qui entraînent des engagements juridiques ou des transactions financières de la part de l’utilisateur, qui modifient ou effacent des données contrôlables par l’utilisateur dans des systèmes de stockages de données, qui enregistrent les réponses de l’utilisateur à un test ou un examen, au moins l’une des conditions suivantes est vraie :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Les actions d’envoi sont réversibles.",
@@ -694,7 +694,7 @@
         },
         "3.3.6": {
             "TITLE": "Prévention des erreurs (toutes)",
-            "DESCRIPTION": "Pour des pages Web demandant à l’utilisateur de soumettre des informations, au moins l’une des conditions suivantes est vraie :",
+            "DESCRIPTION": "Pour des pages Web demandant à l’utilisateur de soumettre des informations, au moins l’une des conditions suivantes est vraie :",
             "DETAILS": {
                 "1": {
                     "DESCRIPTION": "Les actions d’envoi sont réversibles.",
@@ -717,7 +717,7 @@
         },
         "4.1.2": {
             "TITLE": "Nom, rôle et valeur",
-            "DESCRIPTION": "Pour tout composant d’interface utilisateur (comprenant mais n’étant pas limité aux éléments de formulaire, liens et composants générés par des scripts), le nom et le rôle peuvent être déterminés par un programme informatique ; les états, les propriétés et les valeurs qui peuvent être paramétrés par l’utilisateur peuvent être définis par programmation ; la notification des changements de ces éléments est disponible aux agents utilisateurs, incluant les technologies d’assistance.",
+            "DESCRIPTION": "Pour tout composant d’interface utilisateur (comprenant mais n’étant pas limité aux éléments de formulaire, liens et composants générés par des scripts), le nom et le rôle peuvent être déterminés par un programme informatique ; les états, les propriétés et les valeurs qui peuvent être paramétrés par l’utilisateur peuvent être définis par programmation ; la notification des changements de ces éléments est disponible aux agents utilisateurs, incluant les technologies d’assistance.",
             "DETAILS": {}
         },
         "4.1.3": {
